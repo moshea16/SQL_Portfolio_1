@@ -17,9 +17,9 @@ LIMIT 10;
 #2: The 2002 Detroit Lions had the highest single play epa in the data. Who are all of the players and their positions on the team in the data?
 
 SELECT plyrs.season
-	,tms.fullName as team_name
-	,plyrs.position
-	,CONCAT(plyrs.firstName, ' ', plyrs.lastName) AS player_name
+       ,tms.fullName as team_name
+       ,plyrs.position
+       ,CONCAT(plyrs.firstName, ' ', plyrs.lastName) AS player_name
 FROM teams tms
 JOIN players plyrs
 ON tms.teamId = plyrs.teamId
@@ -31,7 +31,7 @@ GROUP BY plyrs.season, tms.fullName, plyrs.position, player_name;
 #3: What is the average home epa for each team by each year ordered by team and epa from the data we have?
 
 SELECT 
-	fullName AS 'Home Team Name'
+    fullName AS 'Home Team Name'
     ,YEAR(game_date) as season
     ,ROUND(AVG(total_home_epa),2) AS 'Average Total Home EPA' 
 FROM nfl_data.teams as tms 
@@ -45,8 +45,8 @@ ORDER BY fullName ASC, AVG(total_home_epa) DESC;
 #4: Show all plays that have a home team epa above the average home team epa for all plays
 
 SELECT 
-	play_id
-	,game_id
+    play_id
+    ,game_id
     ,home_team
     ,total_home_epa
 FROM nfl_data.plays plys
@@ -62,7 +62,7 @@ WHERE plys.total_home_epa > (
 #5: Show only the play with the smallest total home epa.
 
 SELECT 
-	plys.home_team
+    plys.home_team
     ,ROUND(plys.season,0)
     ,plys.yrdln
     ,plys.play_type
@@ -82,8 +82,8 @@ WHERE plys.total_home_epa = (
 #6: Create a select statement that returns all of the players and their positions from the players table and identifies whether they have a penalty for the data we have
 
 SELECT 
-	displayName AS player_name  
-	,plyrs.position 
+    displayName AS player_name  
+    ,plyrs.position 
     ,"This player has a penalty" AS 'penalty'
 FROM nfl_data.players plyrs
 JOIN nfl_data.plays plys
@@ -93,8 +93,8 @@ GROUP BY plyrs.displayName, plyrs.position
 UNION
 
 SELECT 
-	plyrs.displayName AS player_name 
-	,plyrs.position 
+    plyrs.displayName AS player_name 
+    ,plyrs.position 
     ,"This player has no penalty" AS 'penalty'
 FROM nfl_data.players plyrs
 LEFT OUTER JOIN nfl_data.plays plys
@@ -108,7 +108,7 @@ GROUP BY plyrs.displayName, plyrs.position
 #7: Create a running total by play, home team and year for home team epa that resets by year.
 
 SELECT 
-	home_team 
+    home_team 
     ,ROUND(season, 0)
     ,game_date
     ,game_id
@@ -124,7 +124,7 @@ ORDER BY home_team, season, game_date, game_id, play_id
 #8: Create a moving average by play, home team and year for home team epa that resets by year.
 
 SELECT 
-	home_team 
+    home_team 
     ,ROUND(season, 0)
     ,game_date
     ,game_id
@@ -141,19 +141,19 @@ ORDER BY home_team, season, game_date, game_id, play_id
 
 
 SELECT 
-	YEAR(plays.game_date) as Season
-    ,SUM(CASE
-		WHEN plays.home_team = 'NYG' THEN plays.total_home_epa ELSE 0 END
-        ) AS NYG
-	,SUM(CASE
-		WHEN plays.home_team = 'WAS' THEN plays.total_home_epa ELSE 0 END
-        ) AS WAS
-	,SUM(CASE
-		WHEN plays.home_team = 'PHI' THEN plays.total_home_epa ELSE 0 END
-        ) AS PHI
-	,SUM(CASE
-		WHEN plays.home_team = 'DAL' THEN plays.total_home_epa ELSE 0 END
-        ) AS DAL
+     YEAR(plays.game_date) as Season
+     ,SUM(CASE
+	WHEN plays.home_team = 'NYG' THEN plays.total_home_epa ELSE 0 END
+     ) AS NYG
+     ,SUM(CASE
+	WHEN plays.home_team = 'WAS' THEN plays.total_home_epa ELSE 0 END
+     ) AS WAS
+     ,SUM(CASE
+	WHEN plays.home_team = 'PHI' THEN plays.total_home_epa ELSE 0 END
+     ) AS PHI
+     ,SUM(CASE
+	WHEN plays.home_team = 'DAL' THEN plays.total_home_epa ELSE 0 END
+     ) AS DAL
 FROM nfl_data.plays
 GROUP BY YEAR(plays.game_date)
 ORDER BY YEAR(plays.game_date)
@@ -165,7 +165,7 @@ ORDER BY YEAR(plays.game_date)
 #10: Return the play with the third highest total_home_epa available in the data.alter
 
 SELECT 
-	plays.play_id
+     plays.play_id
     ,plays.game_id
     ,plays.home_team
     ,plays.away_team
