@@ -1,0 +1,670 @@
+﻿season,teamId,abbr,cityState,fullName,nick,conferenceAbbr,divisionAbbr
+1999,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCW
+1999,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACC
+1999,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+1999,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCW
+1999,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCC
+1999,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACC
+1999,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACC
+1999,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+1999,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+1999,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCC
+1999,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCC
+1999,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACC
+1999,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACE
+1999,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACC
+1999,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+1999,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+1999,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+1999,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+1999,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCC
+1999,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+1999,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCW
+1999,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+1999,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+1999,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+1999,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCE
+1999,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACC
+1999,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+1999,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+1999,4600,SEA,Seattle,Seattle Seahawks,Seahawks,AFC,ACW
+1999,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCC
+1999,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2000,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCW
+2000,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACC
+2000,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2000,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCW
+2000,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCC
+2000,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACC
+2000,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACC
+2000,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2000,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2000,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCC
+2000,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCC
+2000,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACC
+2000,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACE
+2000,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACC
+2000,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2000,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2000,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2000,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2000,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCC
+2000,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2000,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCW
+2000,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2000,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2000,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2000,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCE
+2000,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACC
+2000,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2000,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2000,4600,SEA,Seattle,Seattle Seahawks,Seahawks,AFC,ACW
+2000,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCC
+2000,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2001,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCW
+2001,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACC
+2001,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2001,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCW
+2001,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCC
+2001,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACC
+2001,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACC
+2001,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2001,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2001,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCC
+2001,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCC
+2001,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACC
+2001,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACE
+2001,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACC
+2001,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2001,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2001,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2001,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2001,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCC
+2001,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2001,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCW
+2009,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2009,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2009,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2009,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2006,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2006,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2001,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2001,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2001,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2001,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCE
+2001,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACC
+2001,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2001,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2001,4600,SEA,Seattle,Seattle Seahawks,Seahawks,AFC,ACW
+2001,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCC
+2001,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2006,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2006,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2007,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2009,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2009,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2009,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2009,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2009,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2009,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2009,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2004,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2004,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2002,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2007,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2007,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2007,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2007,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2007,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2007,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2007,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2007,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2007,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2007,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2009,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2009,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2009,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2009,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2009,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2009,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2010,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2010,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2010,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2010,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2010,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2010,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2010,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2010,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2010,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2010,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2010,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2004,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2002,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2002,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2002,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2002,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2002,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2002,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2002,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2002,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2002,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2002,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2002,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2007,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2010,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2002,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2002,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2002,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2002,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2002,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2002,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2002,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2002,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2002,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2002,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2002,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2002,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2002,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2002,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2002,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2002,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2002,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2002,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2002,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2002,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2003,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2003,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2003,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2003,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2003,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2003,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2003,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2003,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2003,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2003,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2003,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2003,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2003,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2003,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2003,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2003,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2003,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2003,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2003,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2003,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2003,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2003,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2003,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2003,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2003,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2003,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2003,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2003,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2003,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2003,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2003,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2003,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2004,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2004,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2004,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2004,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2004,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2004,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2004,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2004,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2004,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2010,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2010,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2010,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2010,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2010,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2010,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2010,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2010,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2010,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2010,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2010,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2010,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2010,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2010,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2010,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2010,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2010,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2010,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2010,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2010,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2011,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2011,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2011,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2011,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2011,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2011,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2011,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2011,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2011,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2011,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2011,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2011,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2011,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2011,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2011,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2011,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2011,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2011,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2011,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2011,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2011,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2011,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2011,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2011,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2011,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2011,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2011,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2011,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2011,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2011,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2011,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2011,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2012,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2012,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2007,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2007,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2007,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2007,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2007,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2007,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2007,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2007,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2007,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2007,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2007,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2007,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2007,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2007,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2007,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2007,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2007,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2007,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2007,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2007,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2008,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2008,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2008,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2008,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2008,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2008,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2008,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2008,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2008,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2008,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2008,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2008,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2008,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2008,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2008,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2008,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2008,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2008,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2008,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2008,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2008,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2008,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2008,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2008,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2012,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2008,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2012,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2008,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2012,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2008,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2012,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2012,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2008,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2012,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2008,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2012,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2008,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2012,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2008,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2008,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2012,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2009,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2012,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2009,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2012,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2009,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2009,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2012,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2009,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2012,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2009,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2012,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2009,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2012,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2009,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2012,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2009,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2012,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2012,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2009,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2012,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2009,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2012,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2009,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2012,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2012,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2012,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2009,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2012,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2009,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2012,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2009,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2012,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2012,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2012,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2012,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2012,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2013,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2013,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2013,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2013,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2013,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2013,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2013,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2013,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2013,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2013,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2013,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2013,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2013,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2013,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2013,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2013,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2013,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2013,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2013,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2013,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2013,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2013,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2013,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2013,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2013,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2013,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2013,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2013,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2013,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2013,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2013,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2013,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2014,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2014,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2014,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2014,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2014,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2014,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2014,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2014,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2014,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2014,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2014,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2014,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2014,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2014,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2014,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2014,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2014,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2014,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2014,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2014,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2014,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2004,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2004,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2004,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2004,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2004,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2004,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2004,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2004,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2004,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2004,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2004,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2004,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2004,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2004,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2004,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2004,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2004,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2004,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2004,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2004,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2005,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2005,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2005,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2005,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2005,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2005,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2005,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2005,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2005,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2005,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2005,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2005,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2005,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2005,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2005,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2005,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2005,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2005,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2005,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2005,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2005,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2005,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2005,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2005,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2005,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2005,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2005,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2005,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2005,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2005,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2005,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2005,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2006,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2006,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2006,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2006,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2006,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2006,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2006,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2006,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2006,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2006,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2006,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2006,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2006,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2006,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2006,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2006,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2006,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2006,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2006,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2006,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2006,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2006,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2006,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2006,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2006,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2006,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2006,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2006,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2014,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2014,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2014,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2014,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2014,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2014,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2014,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2014,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2014,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2014,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2014,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2015,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2015,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2015,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2015,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2015,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2015,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2015,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2015,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2015,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2015,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2015,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2015,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2015,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2015,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2015,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2015,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2015,2510,STL,St. Louis,St. Louis Rams,Rams,NFC,NCW
+2015,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2015,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2015,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2015,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2015,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2015,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2015,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2015,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2015,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2015,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2015,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2015,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2015,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2015,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2015,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2016,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2016,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2016,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2016,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2016,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2016,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2016,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2016,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2016,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2016,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2016,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2016,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2016,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2016,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2016,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2016,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2017,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2017,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2017,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2017,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2017,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2017,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2017,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2017,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2016,2510,LA,Los Angeles,Los Angeles Rams,Rams,NFC,NCW
+2016,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2016,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2016,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2016,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2016,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2016,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2016,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2016,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2016,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2016,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2016,4400,SD,San Diego,San Diego Chargers,Chargers,AFC,ACW
+2016,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2016,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2016,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2016,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2017,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2017,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2017,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2017,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2017,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2017,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2017,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2017,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2019,4400,LAC,Los Angeles Chargers,Los Angeles Chargers,Chargers,AFC,ACW
+2019,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2019,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2019,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2019,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2017,2510,LA,Los Angeles Rams,Los Angeles Rams,Rams,NFC,NCW
+2017,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2017,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2017,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2017,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2017,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2017,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2017,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2017,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2017,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2017,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2017,4400,LAC,Los Angeles Chargers,Los Angeles Chargers,Chargers,AFC,ACW
+2017,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2017,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2017,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2017,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2018,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2018,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2018,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2018,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2018,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2018,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2018,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2018,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2018,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2018,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2018,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2018,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2018,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2018,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2018,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2018,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2018,2510,LA,Los Angeles Rams,Los Angeles Rams,Rams,NFC,NCW
+2018,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2018,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2018,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2018,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2018,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2018,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2018,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2018,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2018,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2018,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
+2018,4400,LAC,Los Angeles Chargers,Los Angeles Chargers,Chargers,AFC,ACW
+2018,4500,SF,San Francisco,San Francisco 49ers,49ers,NFC,NCW
+2018,4600,SEA,Seattle,Seattle Seahawks,Seahawks,NFC,NCW
+2018,4900,TB,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,NFC,NCS
+2018,5110,WAS,Washington,Washington Redskins,Redskins,NFC,NCE
+2019,200,ATL,Atlanta,Atlanta Falcons,Falcons,NFC,NCS
+2019,325,BAL,Baltimore,Baltimore Ravens,Ravens,AFC,ACN
+2019,610,BUF,Buffalo,Buffalo Bills,Bills,AFC,ACE
+2019,750,CAR,Carolina,Carolina Panthers,Panthers,NFC,NCS
+2019,810,CHI,Chicago,Chicago Bears,Bears,NFC,NCN
+2019,920,CIN,Cincinnati,Cincinnati Bengals,Bengals,AFC,ACN
+2019,1050,CLE,Cleveland,Cleveland Browns,Browns,AFC,ACN
+2019,1200,DAL,Dallas,Dallas Cowboys,Cowboys,NFC,NCE
+2019,1400,DEN,Denver,Denver Broncos,Broncos,AFC,ACW
+2019,1540,DET,Detroit,Detroit Lions,Lions,NFC,NCN
+2019,1800,GB,Green Bay,Green Bay Packers,Packers,NFC,NCN
+2019,2100,TEN,Tennessee,Tennessee Titans,Titans,AFC,ACS
+2019,2120,HOU,Houston,Houston Texans,Texans,AFC,ACS
+2019,2200,IND,Indianapolis,Indianapolis Colts,Colts,AFC,ACS
+2019,2250,JAX,Jacksonville,Jacksonville Jaguars,Jaguars,AFC,ACS
+2019,2310,KC,Kansas City,Kansas City Chiefs,Chiefs,AFC,ACW
+2019,2510,LA,Los Angeles Rams,Los Angeles Rams,Rams,NFC,NCW
+2019,2520,OAK,Oakland,Oakland Raiders,Raiders,AFC,ACW
+2019,2700,MIA,Miami,Miami Dolphins,Dolphins,AFC,ACE
+2019,3000,MIN,Minnesota,Minnesota Vikings,Vikings,NFC,NCN
+2019,3200,NE,New England,New England Patriots,Patriots,AFC,ACE
+2019,3300,NO,New Orleans,New Orleans Saints,Saints,NFC,NCS
+2019,3410,NYG,New York Giants,New York Giants,Giants,NFC,NCE
+2019,3430,NYJ,New York Jets,New York Jets,Jets,AFC,ACE
+2019,3700,PHI,Philadelphia,Philadelphia Eagles,Eagles,NFC,NCE
+2019,3800,ARI,Arizona,Arizona Cardinals,Cardinals,NFC,NCW
+2019,3900,PIT,Pittsburgh,Pittsburgh Steelers,Steelers,AFC,ACN
